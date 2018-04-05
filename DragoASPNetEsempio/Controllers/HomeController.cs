@@ -21,5 +21,9 @@ namespace DragoASPNetEsempio.Controllers {
 
             return View();
         }
+        public ActionResult MyPage() {
+            ViewBag.Message = "Cvesta esserhe la main farst pagi";
+            return View();
+        }
     }
 }
