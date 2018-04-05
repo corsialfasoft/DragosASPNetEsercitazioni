@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragoASPNetEsempio", "DragoASPNetEsempio\DragoASPNetEsempio.csproj", "{1BAE1C37-4F1A-4F44-B9B6-6FFB456B027D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragoASPNetEsempio.Tests", "DragoASPNetEsempio.Tests\DragoASPNetEsempio.Tests.csproj", "{9116B718-8C80-4835-84F9-75A6F372F91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAE1C37-4F1A-4F44-B9B6-6FFB456B027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAE1C37-4F1A-4F44-B9B6-6FFB456B027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAE1C37-4F1A-4F44-B9B6-6FFB456B027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAE1C37-4F1A-4F44-B9B6-6FFB456B027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9116B718-8C80-4835-84F9-75A6F372F91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9116B718-8C80-4835-84F9-75A6F372F91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9116B718-8C80-4835-84F9-75A6F372F91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9116B718-8C80-4835-84F9-75A6F372F91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB1893B-0210-4E71-8A71-B90565A8C316}
+	EndGlobalSection
+EndGlobal
